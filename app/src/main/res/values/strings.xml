@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ordermenu</string>
+
+    <string name="order">點餐人姓名</string>
+    <string name="check_order">確認點餐</string>
+    <string name="button">選擇</string>
+
+
+    <string name="sugar">甜度</string>
+    <string name="no_sugar">無糖</string>
+    <string name="less_sugar">微糖</string>
+    <string name="half_sugar">半糖</string>
+    <string name="full_sugar">全糖</string>
+
+    <string name="ice">冰塊</string>
+    <string name="no_ice">去冰</string>
+    <string name="less_ice">微冰</string>
+    <string name="half_ice">少冰</string>
+    <string name="full_ice">正常冰</string>
+
+    <string name="drink">飲料</string>
+    <string name="send">送出</string>
+
+
+
+
+</resources>
